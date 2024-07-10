@@ -11,17 +11,17 @@ My personal system setup scripts for Windows, Arch, and more!
 
 ## OS-specific guides
 
-- [Arch](docs/arch.md)
-- [Windows](docs/windows.md)
+- [Arch](_docs/arch.md)
+- [Windows](_docs/windows.md)
 
 ## IDE-specific guides
 
-- [Visual Studio Code](docs/vscode.md)
-- [Neovim](docs/neovim.md)
+- [Visual Studio Code](_docs/vscode.md)
+- [Neovim](_docs/neovim.md)
 
 ## Other setup guides
 
-- [Development environment](docs/dev-environment.md)
+- [Development environment](_docs/dev-environment.md)
 
 ## Usage
 
