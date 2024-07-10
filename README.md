@@ -7,7 +7,7 @@ created at: 2024-07-10
 modified at: 2024-07-10
 ```
 
-My personal system setup scripts for Windows, Arch, and more!
+My personal setup scripts for Windows, Arch, and more!
 
 ## OS-specific guides
 
