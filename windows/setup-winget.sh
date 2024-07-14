@@ -24,6 +24,7 @@ winget install -e --id Spotify.Spotify
 winget install -e --id Audacity.Audacity
 winget install -e --id OBSProject.OBSStudio
 winget install -e --id qBittorrent.qBittorrent
+winget install ffmpeg
 
 # Game libraries
 winget install -e --id Valve.Steam
