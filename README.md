@@ -4,7 +4,7 @@
 Information
 ---
 created at: 2024-07-10
-modified at: 2024-07-10
+modified at: 2024-07-16
 ```
 
 My personal setup scripts for Windows, Arch, and more!
