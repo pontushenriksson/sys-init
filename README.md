@@ -31,3 +31,5 @@ Each guide contains detailed instructions and scripts for setting up the respect
 git clone https://github.com/pontushenriksson/sys-init.git
 cd sys-init
 ```
+
+# Change out the vscode extensions headings for profile downloads
