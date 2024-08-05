@@ -6,7 +6,7 @@
 My personal setup scripts for Windows, Arch, and more!
 
 > [!IMPORTANT]
-> Change out the vscode extensions headings for profile downloads
+> Change out the vscode extensions headings for profile downloads & rename the install folder to init.
 
 ## Usage
 
