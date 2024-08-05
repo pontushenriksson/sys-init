@@ -1,7 +1,7 @@
 # sys-init
 
 > [!NOTE]  
-> This guide was last modified 2024-08-05.
+> This repository was last modified 2024-08-05.
 
 My personal setup scripts for Windows, Arch, and more!
 
