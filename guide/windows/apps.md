@@ -1,7 +1,7 @@
 # Windows (needs updating)
 
 > [!NOTE]  
-> This guide was last modified 2024-07-10.
+> This guide was last modified on 2024-07-10.
 
 ## Apps
 
