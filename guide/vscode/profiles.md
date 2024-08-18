@@ -21,5 +21,7 @@
 1. Click on the icon in the bottom left in Visual Studio Code.
 2. Hover over "Profile".
 3. Click on "Import profile".
-4. Wait for the extensions to be installed and for the settings to be applied.
-5. Done!
+4. Click "Create profile".
+5. Pick the name and icon you want for the profile and then press "Create".
+6. Wait for the extensions to be installed and for the settings to be applied.
+7. Done!
